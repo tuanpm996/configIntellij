@@ -1,0 +1,6 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="ch.qos.logback.core.net.ObjectWriter" />
+    <EXCLUDED_PACKAGE NAME="org.springframework.data.domain.Sort.Order" />
+  </component>
+</application>

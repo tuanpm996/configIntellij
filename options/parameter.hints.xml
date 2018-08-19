@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.springframework.data.mongodb.core.convert.DefaultMongoTypeMapper.DefaultMongoTypeMapper(typeKey)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

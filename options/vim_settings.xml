@@ -1,0 +1,614 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/common/Common.java" timestamp="1533892285744">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/model/Source.java" timestamp="1534302361796">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="44" column="38" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1533891868637">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/document/Channel.java" timestamp="1533176606750">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="40" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" timestamp="1533088900190">
+        <mark key="[" line="376" column="8" />
+        <mark key="]" line="376" column="28" />
+        <mark key="^" line="376" column="28" />
+        <mark key="." line="376" column="28" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/model/Category.java" timestamp="1533539061211">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/repository/UserRepository.java" timestamp="1533049322288">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/services/impl/ProvinceServiceImpl.java" timestamp="1534300214127">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="12" />
+        <mark key="." line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/specification/ObjectSpecification.java" timestamp="1534299472356">
+        <mark key="[" line="67" column="47" />
+        <mark key="]" line="67" column="96" />
+        <mark key="^" line="67" column="96" />
+        <mark key="." line="67" column="96" />
+      </file>
+      <file name="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/repository/ProvinceRepository.java" timestamp="1533041796992">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="77" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/services/ChannelService.java" timestamp="1533892018730">
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Heroku/src/main/java/com/example/demo/DemoApplication.java" timestamp="1532741586984">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/new/eureka-backend/src/main/java/producer/eureka/QueryFilter/UserSpecificationsBuilder.java" timestamp="1533359815951">
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="28" />
+        <mark key="^" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/repository/ChannelRepository.java" timestamp="1533886301419">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/mongodb/src/main/java/com/topica/vn/mongodb/document/Manager.java" timestamp="1532256135075">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+      </file>
+      <file name="$USER_HOME$/new/eureka-backend/pom.xml" timestamp="1533288722610">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="67" column="10" />
+        <mark key="^" line="67" column="10" />
+        <mark key="." line="67" column="10" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/specification/ObjectSpecificationBuilder.java" timestamp="1533720652721">
+        <mark key="[" line="23" column="81" />
+        <mark key="]" line="23" column="79" />
+        <mark key="^" line="23" column="79" />
+        <mark key="." line="23" column="79" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/utility/ResponseFunction.java" timestamp="1534312420889">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+      </file>
+      <file name="$USER_HOME$/eureka/src/main/resources/application.properties" timestamp="1532318750502">
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/repository/TeacherScheduleRepository.java" timestamp="1533049429487">
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="13" column="61" />
+        <mark key="^" line="13" column="61" />
+        <mark key="." line="13" column="61" />
+      </file>
+      <file name="$USER_HOME$/new/eureka-backend/src/main/java/producer/eureka/repository/CategoryRepository.java" timestamp="1533312149605">
+        <mark key="[" line="5" column="76" />
+        <mark key="]" line="5" column="72" />
+        <mark key="^" line="5" column="72" />
+        <mark key="." line="5" column="72" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/services/impl/ChanelServiceImpl.java" timestamp="1533892029119">
+        <mark key="[" line="18" column="68" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/new/eureka-backend/src/main/java/producer/eureka/model/User.java" timestamp="1533358778965">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/repository/UserRepository.java" timestamp="1533465022003">
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="5" column="58" />
+        <mark key="^" line="5" column="58" />
+        <mark key="." line="5" column="58" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/services/TeacherService.java" timestamp="1533464591937">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/repository/TeacherRepository.java" timestamp="1534129591873">
+        <mark key="[" line="33" column="60" />
+        <mark key="]" line="24" column="58" />
+        <mark key="." line="24" column="58" />
+        <mark key="^" line="24" column="58" />
+      </file>
+      <file name="$USER_HOME$/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" timestamp="1533659056526">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="21" />
+        <mark key="." line="41" column="21" />
+      </file>
+      <file name="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/repository/ChannelRepository.java" timestamp="1533049128582">
+        <mark key="[" line="5" column="77" />
+        <mark key="]" line="6" column="42" />
+        <mark key="^" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/new/eureka-backend/src/main/java/producer/eureka/services/impl/CategoryServiceImpl.java" timestamp="1533310422836">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/model/Teacher.java" timestamp="1534304142092">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/exceptionhandler/ExceptionHandler.java" timestamp="1533891708049">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/new/eureka-backend/src/main/java/producer/eureka/QueryFilter/TeacherSpecificationsBuilder.java" timestamp="1533366549561">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="35" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/services/impl/ChannelServiceImpl.java" timestamp="1534300144212">
+        <mark key="'" line="32" column="26" />
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+        <mark key="^" line="31" column="11" />
+      </file>
+      <file name="$USER_HOME$/Downloads/graphql/src/main/java/com/example/graphql/service/CarService.java" timestamp="1533121413262">
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="38" column="52" />
+        <mark key="^" line="38" column="52" />
+        <mark key="." line="38" column="52" />
+      </file>
+      <file name="$USER_HOME$/new/eureka-backend/src/main/java/producer/eureka/QueryFilter/SearchCriteria.java" timestamp="1533359626089">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/model/TeacherPhone.java" timestamp="1533714588433">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/services/ProvinceService.java" timestamp="1533437506364">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+      </file>
+      <file name="$USER_HOME$/eureka-backend/src/test/java/producer/eureka/Test.java" timestamp="1532929500654">
+        <mark key="[" line="44" column="14" />
+        <mark key="]" line="95" column="3" />
+        <mark key="^" line="95" column="3" />
+        <mark key="." line="95" column="3" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/model/Province.java" timestamp="1534300515092">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1534299639592">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/controllers/CategoryController.java" timestamp="1533780953878">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/specification/TeacherSpecificationBuilder.java" timestamp="1533464199023">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="37" column="21" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/services/impl/SourceServiceImpl.java" timestamp="1534302130657">
+        <mark key="[" line="40" column="40" />
+        <mark key="]" line="40" column="39" />
+        <mark key="." line="40" column="39" />
+        <mark key="^" line="40" column="39" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Heroku/src/main/resources/application.properties" timestamp="1532742773828">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/repository/CategoryRepository.java" timestamp="1533041812220">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/controllers/ProvinceController.java" timestamp="1534313217309">
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="26" />
+        <mark key="^" line="44" column="26" />
+        <mark key="." line="44" column="26" />
+      </file>
+      <file name="$USER_HOME$/new/eureka-backend/src/main/java/producer/eureka/repository/TeacherRepository.java" timestamp="1533359536104">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="2" column="71" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/pom.xml" timestamp="1533886487507">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="22" column="72" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/model/Channel.java" timestamp="1534300519950">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+      </file>
+      <file name="$USER_HOME$/eureka/src/main/java/com/topica/vn/eureka/EurekaApplication.java" timestamp="1532327097025">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="31" column="30" />
+        <mark key="." line="31" column="30" />
+        <mark key="^" line="31" column="30" />
+      </file>
+      <file name="$USER_HOME$/mongodb/src/main/java/com/topica/vn/mongodb/repository/ManagerRepository.java" timestamp="1532312615767">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="6" column="73" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/new/eureka-backend/src/main/java/producer/eureka/services/CategoryService.java" timestamp="1533311821416">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/controllers/BaseController.java" timestamp="1533892333319">
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="21" column="58" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/handler/ExHandler.java" timestamp="1534312761863">
+        <mark key="[" line="23" column="49" />
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/services/impl/TeacherServiceImpl.java" timestamp="1533923908416">
+        <mark key="[" line="42" column="124" />
+        <mark key="]" line="42" column="124" />
+        <mark key="^" line="42" column="124" />
+        <mark key="." line="42" column="124" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Heroku/pom.xml" timestamp="1532741506876">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="64" column="20" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/resources/application.properties" timestamp="1534126312607">
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="3" column="60" />
+        <mark key="^" line="3" column="60" />
+        <mark key="." line="3" column="60" />
+      </file>
+      <file name="$USER_HOME$/new/eureka-backend/src/main/java/producer/eureka/model/Category.java" timestamp="1533348783880">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="26" column="30" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/controllers/ChannelController.java" timestamp="1534312897410">
+        <mark key="[" line="43" column="31" />
+        <mark key="]" line="43" column="36" />
+        <mark key="." line="43" column="36" />
+        <mark key="^" line="43" column="36" />
+      </file>
+      <file name="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/common/notification/ErrorMessage.java" timestamp="1533196515978">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/services/GroupService.java" timestamp="1533458467366">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/controllers/TeacherController.java" timestamp="1533923760869">
+        <mark key="]" line="31" column="51" />
+        <mark key="^" line="31" column="51" />
+        <mark key="." line="31" column="51" />
+      </file>
+      <file name="/fragment.java" timestamp="1534128841736">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="323" column="13" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" />
+      <jump line="317" column="35" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" />
+      <jump line="279" column="72" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" />
+      <jump line="121" column="66" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" />
+      <jump line="329" column="0" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" />
+      <jump line="102" column="32" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" />
+      <jump line="141" column="42" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" />
+      <jump line="347" column="0" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" />
+      <jump line="344" column="28" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" />
+      <jump line="348" column="0" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" />
+      <jump line="205" column="0" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/Controller/TeacherControllerTest1.java" />
+      <jump line="111" column="16" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="289" column="42" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="279" column="24" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="206" column="4" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="193" column="39" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="183" column="48" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="166" column="40" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="155" column="48" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="138" column="40" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="127" column="52" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="115" column="44" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="102" column="45" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="90" column="44" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="80" column="80" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="282" column="60" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="316" column="0" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/ControllerTest.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/ControllerTest.java" />
+      <jump line="278" column="42" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="259" column="13" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="249" column="13" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="45" column="38" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="311" column="25" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="309" column="13" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest1.java" />
+      <jump line="269" column="57" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="67" column="28" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="81" column="26" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="82" column="26" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="83" column="26" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="71" column="26" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="72" column="26" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="73" column="26" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="80" column="26" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="79" column="26" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="78" column="26" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="77" column="26" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="76" column="26" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="75" column="26" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="74" column="26" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/controller/TeacherController.java" />
+      <jump line="14" column="31" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/common/security/WebSecurityConfig.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/eureka-backend/src/main/java/producer/eureka/common/security/WebSecurityConfig.java" />
+      <jump line="8" column="51" filename="$USER_HOME$/new/eureka-backend/src/main/java/producer/eureka/services/impl/CategoryServiceImpl.java" />
+      <jump line="4" column="29" filename="$USER_HOME$/new/eureka-backend/src/main/java/producer/eureka/services/impl/CategoryServiceImpl.java" />
+      <jump line="13" column="38" filename="$USER_HOME$/new/eureka-backend/src/main/java/producer/eureka/QueryFilter/TeacherSpecification.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Downloads/didi-meta/src/main/java/vn/edu/topica/domain/Node.java" />
+      <jump line="20" column="33" filename="$USER_HOME$/Downloads/didi-meta/src/main/java/vn/edu/topica/domain/Node.java" />
+      <jump line="21" column="54" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/model/Province.java" />
+      <jump line="38" column="56" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/EurekaApplication.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/EurekaApplication.java" />
+      <jump line="9" column="6" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/model/RoleGroup.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/model/RoleGroup.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/model/RoleGroup.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/model/RoleGroup.java" />
+      <jump line="31" column="4" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/controllers/TeacherController.java" />
+      <jump line="30" column="53" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/controllers/TeacherController.java" />
+      <jump line="28" column="17" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="6" column="48" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="4" column="44" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="3" column="16" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="1590" column="7" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="1572" column="41" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="1560" column="41" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="1548" column="25" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="1536" column="25" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="1043" column="21" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="555" column="34" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="544" column="26" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="532" column="26" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="440" column="48" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="342" column="15" filename="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/criteria/CriteriaBuilder.java" />
+      <jump line="24" column="17" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/EurekaApplication.java" />
+      <jump line="16" column="46" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/EurekaApplication.java" />
+      <jump line="30" column="13" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/model/Teacher.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/controllers/BaseController.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/specification/ObjectSpecification.java" />
+      <jump line="39" column="8" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/controllers/BaseController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/controllers/BaseController.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/controllers/BaseController.java" />
+      <jump line="7" column="34" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/specification/SearchOperation.java" />
+      <jump line="15" column="7" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/model/TeacherCategory.java" />
+      <jump line="7" column="116" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/repository/ProvinceRepository.java" />
+      <jump line="133" column="6" filename="$USER_HOME$/fork/eureka-backend/src/test/java/producer/eureka/controller/TeacherControllerTest.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/specification/SearchCriteria.java" />
+      <jump line="23" column="37" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/aop/Handler.java" />
+      <jump line="45" column="9" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/controllers/ChannelController.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/fork/eureka-backend/src/main/resources/application.properties" />
+      <jump line="32" column="26" filename="$USER_HOME$/fork/eureka-backend/src/main/java/producer/eureka/services/impl/ChannelServiceImpl.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>,</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+      <register name="/" type="4">
+        <text>and</text>
+      </register>
+      <register name="0" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBoYW5kbGVFeGNlcHRpb25JbnRlcm5hbChleCwgYm9keU9mUmVzcG9uc2UsIG5ldyBIdHRwSGVhZGVycygpLCBIdHRwU3RhdHVzLklOVEVSTkFMX1NFUlZFUl9FUlJPUiwgcmVxdWVzdCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBoYW5kbGVFeGNlcHRpb25JbnRlcm5hbChleCwgZXguZ2V0TWVzc2FnZSgpLCBuZXcgSHR0cEhlYWRlcnMoKSwgSHR0cFN0YXR1cy5JTlRFUk5BTF9TRVJWRVJfRVJST1IsIHJlcXVlc3QpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBoYW5kbGVFeGNlcHRpb25JbnRlcm5hbChleCwgZXguZ2V0TWVzc2FnZSgpLCBuZXcgSHR0cEhlYWRlcnMoKSwgSHR0cFN0YXR1cy5JTlRFUk5BTF9TRVJWRVJfRVJST1IsIHJlcXVlc3QpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBSZXNwb25zZUVudGl0eTxPYmplY3Q+IG5vU3VjaEVsZW1lbnQoUnVudGltZUV4Y2VwdGlvbiBleCwgV2ViUmVxdWVzdCByZXF1ZXN0KSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0UmVzcG9uc2UoZXguZ2V0TWVzc2FnZSgpLCBIdHRwU3RhdHVzLklOVEVSTkFMX1NFUlZFUl9FUlJPUiwgbmV3IEhhc2hNYXA8PigpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBUZW1wb3JhbChUZW1wb3JhbFR5cGUuVElNRVNUQU1QKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBDcmVhdGlvblRpbWVzdGFtCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>and</last-search>
+      <last-offset />
+      <last-pattern>and</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>Object</entry>
+        <entry>ObjectMa</entry>
+        <entry>Request</entry>
+        <entry encoding="base64">PA==</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry>category</entry>
+        <entry>province</entry>
+        <entry>2</entry>
+        <entry>teacherR</entry>
+        <entry>Excep</entry>
+        <entry>teacherS</entry>
+        <entry>mongoOp</entry>
+        <entry>sdfsdf</entry>
+        <entry>value</entry>
+        <entry>Te</entry>
+        <entry>findRootNodeByCatalogId</entry>
+        <entry>teac</entry>
+        <entry>teacer</entry>
+        <entry>teacher</entry>
+        <entry>and</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5tIDI5</entry>
+        <entry>38</entry>
+        <entry>src</entry>
+        <entry>actionlise</entry>
+        <entry>actionlist</entry>
+        <entry>m2 29</entry>
+        <entry>2m 29</entry>
+        <entry>.,.+1m 28</entry>
+        <entry>29</entry>
+        <entry>.,.+1m 37</entry>
+        <entry>g 3</entry>
+        <entry>m 2</entry>
+        <entry>m 34</entry>
+        <entry>m 40</entry>
+        <entry>wq</entry>
+        <entry>qw</entry>
+        <entry>W</entry>
+        <entry>ư</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
